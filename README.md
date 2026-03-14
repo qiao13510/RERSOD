@@ -1,8 +1,4 @@
 
-<p align="center">
-<img src="https://github.com/qiao13510/RERSOD/blob/main/image.png" width="600">
-</p>
-
 ![image](image.png)
 
 Comparison with other state-of-the-art methods
